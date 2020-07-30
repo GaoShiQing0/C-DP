@@ -1,2 +1,2 @@
 # C-DP
-This is the Pseudo code of the C-DP algorithm.
+This is the pseudo code of the C-DP algorithm.
